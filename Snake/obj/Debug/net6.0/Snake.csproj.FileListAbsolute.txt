@@ -1,0 +1,5 @@
+C:\Users\Henri\OneDrive\Skrivebord\Kode\C#\Test 2.0\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\Users\Henri\OneDrive\Skrivebord\Kode\C#\Test 2.0\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\OneDrive\Skrivebord\Kode\C#\Test 2.0\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Users\Henri\OneDrive\Skrivebord\Kode\C#\Test 2.0\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Users\Henri\OneDrive\Skrivebord\Kode\C#\Test 2.0\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
